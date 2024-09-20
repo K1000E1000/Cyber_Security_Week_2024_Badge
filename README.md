@@ -13,5 +13,5 @@ Nota: Se asume que ya cumple con los requerimientos y tiene cuando menos una pro
 - Dirigirse a la carpeta /Code/Assets
 - Descargar las imágenes .pbm existentes (Es la información de la parte gráfica que no fue programada como portadas y arte)
 - Usar Thonny o ide de preferencia para cargar todos los archivos a la Raspberry pi pico
-## Circuíto
+## Circuito
 ![image](https://github.com/user-attachments/assets/7fff954b-f88d-46f3-be25-e5a5aa0d534f)
